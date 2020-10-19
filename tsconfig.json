@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "outDir": "dist", //serve para salvar os arquivos tsc em uma pasta selecionada, no caso a dist
+      "target": "es2015",                          
+      "module": "commonjs"
+    }
+  }
+  
